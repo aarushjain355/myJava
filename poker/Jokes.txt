@@ -1,0 +1,6 @@
+"What's the object-oriented way of becoming wealthy? It's inheritance."
+"Why did the programmer quit his job? Because he didn't get arrays."
+"Why do programmers wear glasses? Because they can't C#."
+"I don't see women as objects. I think they are in a class of their own."
+"Why do programmer get halloween and Christmas mixed up. Because DEC 21 == OCT 31."
+"A guy tells a girl, 'You remind me of a software update. Whenever I see you, I think 'Not Now''.
