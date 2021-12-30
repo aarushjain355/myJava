@@ -1,2 +1,2 @@
 # myJava
-This contains my java code
+This contains some of my java code assignment submitted as part of ICS3U7.
