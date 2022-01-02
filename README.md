@@ -43,9 +43,24 @@ e.g. for number 345 entered by user, it will print
     The tens-place digit is: 4
     The ones-place digit is: 5
 
+## SumOfCubeOfDigits
+(while loop, it)
+
+This program calculates the cube of each digit of 2 digit number and the prints ths sum.
+
+e.g. for number 34 entered (3^3 + 4^3 = 27 + 64 = 91), it will print
+  The sum of the cubes of the digit is 91
+
+## TimeAndChange
+
+This programs genertes a random number and then multiply and add some static number. It then calculates time in 24 hour format hr:mm:ss.
+It also does some price calculations of a random number and then prints.
+
 ## password
 (while loop, if-else)
 
 This program tries to match an entered 4 digit integer number with 1234. It allows user to retry maximum 3 times.
 
-## 
+## random
+
+This is a sample for rounding a number to 2 digit decimal places.
