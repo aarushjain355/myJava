@@ -1,0 +1,26 @@
+Dog
+Snake
+Wolf
+Hare
+Tiger
+Rabbit
+Lion
+Squirrel
+Spinasaurus
+Velociraptor
+Pteradactyl
+Torovosaurus
+Pteranodon
+Triceratops
+Troodon
+Stegasaurus
+Canius Auries
+Oryx Gazelle
+Merops nubicus
+Gyps bengalensis
+Fregata magnificans
+Milvus migrans
+Ateles paniscus
+Barbus Barbus
+
+
