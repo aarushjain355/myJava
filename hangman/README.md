@@ -1,1 +1,1 @@
-
+This is a complicated string game variation of the game Hangman programmed using java which allows the players to choose a word from one of the three categories (Food, Animals, Sports) and allows the player to keep track of their high score and keep playing until they wish to quit. The project also contains a hints file where it offers hints to each player if they want to receive one or not.
