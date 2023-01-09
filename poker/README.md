@@ -1,1 +1,1 @@
-This is a set of Java programs highlighting Object Oriented concepts - Inheritence and Polymorphism.
+A variation of the game BlackJack that uses advanced object oriented programming principles as well as implements custom features such as a joke telling system that pulls a random joke from a file and displays it to the player when he or she hits
